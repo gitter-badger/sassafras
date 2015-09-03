@@ -70,7 +70,6 @@ Could become:
 ```
 It all just depends on how you like to organize your files. I like mine to be organized in a certain way, therefore I wrote sassafras to follow that structure.
 
-## Licensing 
 
 The MIT License (MIT)
 =====================
