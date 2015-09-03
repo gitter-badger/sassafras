@@ -1,7 +1,7 @@
-# <img src="assets/sassafras_logo.png" alt="sassafras logo"> ![Build Status](https://travis-ci.org/tylerreckart/sassafras.svg?branch=master) [![npm version](https://badge.fury.io/js/sassafras_io.svg)](http://badge.fury.io/js/sassafras_io) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-A handy multi-language CSS compiler for SASS, Sassy CSS, and LESS
+# <img src="assets/sassafras_logo.png" alt="sassafras logo">  
+![Build Status](https://travis-ci.org/tylerreckart/sassafras.svg?branch=master) [![npm version](https://badge.fury.io/js/sassafras_io.svg)](http://badge.fury.io/js/sassafras_io) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)  
 
-## Introduction
+### Introduction
 
 Sassafras is a tool for compiling multiple css preprocessors into css that can be read by the browser. It works great with languages like SASS, SCSS (Sassy CSS) and LESS. It was built out of a necessecity for a proper way to compile other languages into CSS. Sassafrass is built to be quick and easy to impliment. Check it out!
 
