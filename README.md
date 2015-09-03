@@ -1,4 +1,4 @@
-# [![sassafras.io](http://sassafras.io)](assets/sassafras_logo.svg) ![Build Status](https://travis-ci.org/tylerreckart/sassafras.svg?branch=master) [![npm version](https://badge.fury.io/js/sassafras_io.svg)](http://badge.fury.io/js/sassafras_io) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# <img src="assets/sassafras_logo.png" alt="sassafras logo"> ![Build Status](https://travis-ci.org/tylerreckart/sassafras.svg?branch=master) [![npm version](https://badge.fury.io/js/sassafras_io.svg)](http://badge.fury.io/js/sassafras_io) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 A handy multi-language CSS compiler for SASS, Sassy CSS, and LESS
 
 ## Introduction
