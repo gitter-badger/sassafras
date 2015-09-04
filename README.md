@@ -7,6 +7,17 @@ Sassafras is a tool for compiling multiple css preprocessors into css that can b
 
 ### Installation
 
+#### Prerequisites  
+Sassafras requires that you have grunt installed and running on your system. If you don't already, in the command line enter:
+
+    npm install -g grunt
+    
+    npm install -g grunt-cli
+    
+The first command installs grunt globally on your system. The second installs it's command line interface.
+
+Then run `grunt --version`. If the console responds with a version number, you've got grunt up and running. If you run into errors, check out grunt's [getting started](http://gruntjs.com/getting-started) guide.
+
 Installation is super simple. Just run:
 
     npm install sassafras_io
