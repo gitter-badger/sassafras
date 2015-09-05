@@ -22,7 +22,9 @@ Installation is super simple. Just run in the root directory of your project. Fo
 
     bower install sassafras
 
-That's it! Just make sure you have all of the dependencies in the root folder of your project.
+That's it! Just make sure you have all of the dependencies in the root folder of your project. 
+
+Please note: There is also a downloadable npm package for sassafras as well. If you would like to install it via npm, then run `npm install sassafras_io`. However, the npm package is depreciated at the current moment in time. Right now all package support is through bower. The npm package will be updated in the future, however it is not currently recieving updates.
 
 ## Usage
 
@@ -31,8 +33,6 @@ Running the package is also super easy. Thanks to grunt, all you need is one sim
    grunt
 
 As you write your `SCSS` or `LESS`, grunt will watch your code and actively generate a `main.css` file in your main CSS directory.
-
-Please note: There is also a downloadable npm package for sassafras as well. If you would like to install it via npm, then run `npm install sassafras_io`. However, the npm package is depreciated at the current moment in time. Right now all package support is through bower. The npm package will be updated in the future, however it is not currently recieving updates
 
 ## Additional Info
 
