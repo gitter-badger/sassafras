@@ -1,6 +1,6 @@
 module.exports = function(grunt) {
 	grunt.initConfig({
-		pkg: grunt.file.readJSON('package.json'),
+		pkg: grunt.file.readJSON('bower.json'),
 		sass: {
 			dist: {
 				files: {
@@ -34,10 +34,8 @@ module.exports = function(grunt) {
       }
     }
 	});
-  grunt.loadNpmTasks('grunt-contrib-less');
-	grunt.loadNpmTasks('grunt-contrib-sass');
-	grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadTasks('grunt-contrib-less');
+	grunt.loadTasks('grunt-contrib-sass');
+	grunt.loadTasks('grunt-contrib-watch');
 	grunt.registerTask('default',['watch']);
 };
-
-console.log('The build is passing');
