@@ -32,6 +32,8 @@ Running the package is also super easy. Thanks to grunt, all you need is one sim
 
 As you write your `SCSS` or `LESS`, grunt will watch your code and actively generate a `main.css` file in your main CSS directory.
 
+Please note: There is also a downloadable npm package for sassafras as well. If you would like to install it via npm, then run `npm install sassafras_io`. However, the npm package is depreciated at the current moment in time. Right now all package support is through bower. The npm package will be updated in the future, however it is not currently recieving updates
+
 ## Additional Info
 
 Depending on how you lay out your file structure, you may need to edit the paths in the `gruntfile`. If you have your folder structure laid out differently that I built into sassafras, grunt won't know where to look in order to read your `SCSS` or `LESS` and generate the `main.css` file. However, do not fret! Editing the paths in the `gruntfile` is super simple.
