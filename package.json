@@ -1,6 +1,6 @@
 {
   "name": "sassafras_io",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A multi-language CSS compiler for SASS, SCSS, and everything in between (aKa LESS).",
   "main": "index.js",
   "dependencies": {
