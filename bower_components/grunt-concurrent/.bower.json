@@ -1,0 +1,15 @@
+{
+  "name": "grunt-concurrent",
+  "homepage": "https://github.com/sindresorhus/grunt-concurrent",
+  "version": "2.0.3",
+  "_release": "2.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.3",
+    "commit": "069254070f74869805a1236ebfd9f049e0d15990"
+  },
+  "_source": "git://github.com/sindresorhus/grunt-concurrent.git",
+  "_target": "~2.0.3",
+  "_originalSource": "grunt-concurrent",
+  "_direct": true
+}
