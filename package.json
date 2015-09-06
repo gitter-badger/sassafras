@@ -1,7 +1,7 @@
 {
-  "name": "sassafras_io",
-  "version": "0.1.2",
-  "description": "A multi-language CSS compiler for SASS, SCSS, and everything in between (aKa LESS).",
+  "name": "sassafras",
+  "version": "0.1.3",
+  "description": "Take control of your stylesheets",
   "main": "index.js",
   "dependencies": {
     "grunt": "~0.4.2",
@@ -10,12 +10,15 @@
     "grunt-contrib-watch": "~0.6.0",
     "grunt-concurrent": "~2.0.3"
   },
+  "devDependencies": {
+    "jsdiff": "~1.0.0"
+  },
   "scripts": {
     "test": "node gruntfile.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tylerreckart/sassafras_io.git"
+    "url": "git+ssh://git@github.com/tylerreckart/sassafras.git"
   },
   "keywords": [
     "SASS",
