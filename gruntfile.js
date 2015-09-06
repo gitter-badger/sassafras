@@ -16,24 +16,32 @@ module.exports = function(grunt) {
 			}
 		},
 		watch: {
-			css: {
-				files: '**/*.scss',
-				tasks: ['sass']
+	  css: {
+	    files: '**/*.sass',
+	    tasks: ['sass'],
+	    options: {
+	      livereload: true,
+				livereloadOnError: false,
+	    	},
+	  },
+		sass: {
+			files: '**/*.less',
+			tasks: ['less'],
+			options: {
+				livereload: true,
+				livereloadOnError: false,
 			},
-      sass: {
-        files: '**/*.less',
-        tasks: ['less']
-      }
 		},
-    concurrent: {
-      options: {
-        logConcurrentOutput: true,
-      },
-      prod: {
-        tasks: ["watch:css", "watch:sass"]
-      }
-    }
-	});
+		concurrent: {
+			options: {
+				logConcurrentOutput: true,
+			},
+			prod: {
+				tasks: ["watch:css", "watch:sass"]
+			}
+		}
+	},
+});
   grunt.loadTasks('grunt-contrib-less');
 	grunt.loadTasks('grunt-contrib-sass');
 	grunt.loadTasks('grunt-contrib-watch');
