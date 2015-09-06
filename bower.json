@@ -17,5 +17,8 @@
     "CSS",
     "Compiler"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sassafras": "*"
+  }
 }
