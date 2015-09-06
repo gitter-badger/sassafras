@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Sassafras is a tool for compiling multiple css preprocessors into css that can be read by the browser. It works great with languages like SASS, SCSS (Sassy CSS) and LESS. It was built out of a necessecity for a proper way to compile other languages into CSS. Sassafrass is built to be quick and easy to impliment. Check it out!
+Sassafras is a tool for compiling multiple css preprocessors into css that can be read by the browser. It works great with languages like SASS, SCSS (Sassy CSS) and LESS. It was built out of a necessity for a proper way to compile other languages into CSS. Sassafras is built to be quick and easy to implement. Check it out!
 
 #### Prerequisites  
 Sassafras requires that you have grunt installed and running on your system. If you don't already the process of getting grunt onto your system is super easy. In the command line enter:
@@ -26,7 +26,7 @@ That's it! Just make sure you have all of the dependencies in the root folder of
 
 This means going into the `bower_components` folder that was just installed and move the `package.json` file and `node_modules` folder into the root directory of your project and you're set!
 
-Please note: There is also a downloadable npm package for sassafras as well. If you would like to install it via npm, then run `npm install sassafras_io`. However, the npm package is depreciated at the current moment in time. Right now all package support is through bower. The npm package will be updated in the future, however it is not currently recieving updates.
+Please note: There is also a downloadable npm package for sassafras as well. If you would like to install it via npm, then run `npm install sassafras_io`. However, the npm package is depreciated at the current moment in time. Right now all package support is through bower. The npm package will be updated in the future, however it is not currently receiving updates.
 
 ## Usage
 
