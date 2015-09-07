@@ -14,11 +14,6 @@ module.exports = function (grunt) {
         files: {
           'assets/css/main.css' : 'assets/less/*.less'
         }
-      },
-      production: {
-        options: {
-          compress: true
-        }
       }
     },
     watch : {
