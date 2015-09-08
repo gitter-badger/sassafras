@@ -17,6 +17,11 @@
     "CSS",
     "Compiler"
   ],
+  "ignore": [
+    "travis.yml",
+    "CONTRIBUTING.md"
+    "assets" 
+  ],
   "license": "MIT",
   "dependencies": {
     "sassafras": "*"
