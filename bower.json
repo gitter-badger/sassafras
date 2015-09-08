@@ -7,9 +7,7 @@
   ],
   "description": "Take control of your stylesheets",
   "main": "index.js",
-  "directory": [
-    "~/"
-  ],
+  "directory": "~/",
   "moduleType": [
     "node"
   ],
