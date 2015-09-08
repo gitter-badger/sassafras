@@ -19,7 +19,7 @@
   ],
   "ignore": [
     "travis.yml",
-    "CONTRIBUTING.md"
+    "CONTRIBUTING.md",
     "assets"
   ],
   "license": "MIT",
