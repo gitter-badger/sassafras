@@ -18,6 +18,8 @@
     "Compiler"
   ],
   "ignore": [
+    "TODO.md",
+    ".gitignore"
     ".travis.yml",
     "CONTRIBUTING.md",
     "assets"
