@@ -18,7 +18,6 @@
     "Compiler"
   ],
   "ignore": [
-    ".coveralls.yml"
     ".travis.yml",
     "CONTRIBUTING.md",
     "assets"
