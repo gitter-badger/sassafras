@@ -11,7 +11,8 @@
     "grunt-concurrent": "~2.0.3"
   },
   "devDependencies": {
-    "jsdiff": "~1.0.0"
+    "jsdiff": "~1.0.0",
+    "time-grunt": "^1.2.1"
   },
   "scripts": {
     "test": "node gruntfile.js"
