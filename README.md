@@ -30,11 +30,11 @@ Please note: There is also a downloadable npm package for sassafras as well. If 
 
 ## Usage
 
-Running the package is also super easy. Thanks to grunt, all you need is one simple command
+Once you've got everything installed and in the right directory, running sassafras is quick and easy. Just run the following command:
 
-   grunt
+    grunt
 
-As you write your `SCSS` or `LESS`, grunt will watch your code and actively generate a `main.css` file in your main CSS directory.
+I'd suggest opening a new tab in your terminal window dedicated to the grunt task. This will allow for you to work with git and interface with the command line while sassafras compiles your code.
 
 ## Additional Info
 
