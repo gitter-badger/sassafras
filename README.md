@@ -1,5 +1,5 @@
 # <img src="assets/sassafras_logo.png" alt="sassafras logo">  
-<!--- ![Build Status](https://travis-ci.org/tylerreckart/sassafras.svg?branch=master) ---> [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)  
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)  
 
 ### Introduction
 
