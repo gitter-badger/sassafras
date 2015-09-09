@@ -36,6 +36,9 @@ Once you've got everything installed and in the right directory, running sassafr
 
 I'd suggest opening a new tab in your terminal window dedicated to the grunt task. This will allow for you to work with git and interface with the command line while sassafras compiles your code.
 
+If you are working on larger scale projects, Sassafras also has a feature that will allow you to see the time it takes for Sassafras to run it's tasks and compile your code. All you have to do is uncomment the ` //require('time-grunt')(grunt);
+` At the top of the gruntfile. That's it!
+
 ## Additional Info
 
 Depending on how you lay out your file structure, you may need to edit the paths in the `gruntfile`. If you have your folder structure laid out differently that I built into sassafras, grunt won't know where to look in order to read your `SCSS` or `LESS` and generate the `main.css` file. However, do not fret! Editing the paths in the `gruntfile` is super simple.
