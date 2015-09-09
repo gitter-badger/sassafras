@@ -24,7 +24,7 @@ Installation is super simple. Just run in the root directory of your project. Fo
 
 That's it! Just make sure you have all of the dependencies in the root folder of your project.
 
-This means going into the `bower_components` folder that was just installed and move the `package.json` file and `node_modules` folder into the root directory of your project and you're set!
+This means finding your way inside of the `sassafras` folder and copying the contents of the `dist` folder to the root directory of your project. (Hint: you can find the `sassafras` folder in the `bower_components` folder)
 
 Please note: There is also a downloadable npm package for sassafras as well. If you would like to install it via npm, then run `npm install sassafras_io`. However, the npm package is depreciated at the current moment in time. Right now all package support is through bower. The npm package will be updated in the future, however it is not currently receiving updates.
 
