@@ -20,7 +20,7 @@ Then run `grunt --version`. If the console responds with a version number, you'v
 
 Installation is super simple. Just run in the root directory of your project. For now, you'll need to go into the `node_modules` folder and move the contents of `sassafras_io` into the root directory of your project. This will soon be fixed upon install and the docs will be updated once it has been implemented.
 
-    bower install sassafras --save
+    bower install sassafras
 
 That's it! Just make sure you have all of the dependencies in the root folder of your project.
 
