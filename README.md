@@ -1,4 +1,6 @@
 # <img src="assets/sassafras_logo.png" alt="sassafras logo">  
+
+[![Join the chat at https://gitter.im/tylerreckart/sassafras](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tylerreckart/sassafras?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)  
 
 ### Introduction
